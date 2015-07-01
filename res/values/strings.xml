@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OCR Sudoku</string>
+    <string name="take_picture">Take A Picture</string>
+    <string name="load_gallery">Load From Gallery</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">MyMessage</string>
+    <string name="Hint">Hint</string>
+    <string name="solve_the_puzzle">Solve</string>
+    <string name="defaultText">-</string>
+    
+
+</resources>
